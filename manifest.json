@@ -126,14 +126,6 @@
           "caption": "RAVECOACH 03"
         },
         {
-          "file": "DSC08322.jpg",
-          "caption": "SESSION 01"
-        },
-        {
-          "file": "DSC08657.jpg",
-          "caption": "SESSION 02"
-        },
-        {
           "file": "Adina_DSC03757-3.jpg",
           "caption": "ADINA 01"
         },
@@ -144,10 +136,6 @@
         {
           "file": "Adina_DSC03798-2.jpg",
           "caption": "ADINA 03"
-        },
-        {
-          "file": "DSC08670.jpg",
-          "caption": "SESSION 03"
         },
         {
           "file": "DSC06178.jpg",
@@ -342,6 +330,27 @@
       "title": "DADAAB",
       "type": "single",
       "file": "Dadaab_IMG_1047.jpg"
+    }
+  ],
+  "_hidden": [
+    {
+      "title": "KK",
+      "hidden": true,
+      "type": "gallery",
+      "files": [
+        {
+          "file": "DSC08322.jpg",
+          "caption": "SESSION 01"
+        },
+        {
+          "file": "DSC08657.jpg",
+          "caption": "SESSION 02"
+        },
+        {
+          "file": "DSC08670.jpg",
+          "caption": "SESSION 03"
+        }
+      ]
     }
   ]
 }
