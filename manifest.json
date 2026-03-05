@@ -285,12 +285,12 @@
       "type": "gallery",
       "files": [
         {
-          "file": "EastVan_IMG_5311.jpg",
-          "caption": "EAST VAN 01"
-        },
-        {
           "file": "flagged_IMG_6404.jpg",
           "caption": "FLAGGED"
+        },
+        {
+          "file": "EastVan_IMG_5311.jpg",
+          "caption": "EAST VAN 01"
         },
         {
           "file": "Hurst_IMG_6313.jpg",
