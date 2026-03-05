@@ -104,7 +104,8 @@
         },
         {
           "file": "RuthWilsonTheTimes-2.jpg",
-          "caption": "RuthWilsonTheTimes-2"
+          "caption": "RuthWilsonTheTimes-2",
+          "wide": true
         }
       ]
     },
