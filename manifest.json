@@ -185,18 +185,6 @@
           "caption": "ADINA 06"
         },
         {
-          "file": "DSC05095-2.jpg",
-          "caption": "SESSION 07"
-        },
-        {
-          "file": "DSC04989.jpg",
-          "caption": "SESSION 08"
-        },
-        {
-          "file": "DSC05026.jpg",
-          "caption": "SESSION 09"
-        },
-        {
           "file": "Rieter_DSC06406.jpg",
           "caption": "RIETER 01"
         },
@@ -214,6 +202,24 @@
       "title": "FACEBOOK FOX",
       "type": "single",
       "file": "FacebookFox_11m.jpg"
+    },
+    {
+      "title": "SELFIES IN COLOUR",
+      "type": "gallery",
+      "files": [
+        {
+          "file": "DSC05095-2.jpg",
+          "caption": "SESSION 07"
+        },
+        {
+          "file": "DSC04989.jpg",
+          "caption": "SESSION 08"
+        },
+        {
+          "file": "DSC05026.jpg",
+          "caption": "SESSION 09"
+        }
+      ]
     },
     {
       "title": "NIGHT COLOUR THEORY",
