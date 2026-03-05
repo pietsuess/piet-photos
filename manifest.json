@@ -2,12 +2,12 @@
   "baseUrl": "https://raw.githubusercontent.com/pietsuess/piet-photos/master/photos/",
   "items": [
     {
-      "title": "SELFIE IN RWANDA",
+      "title": "RURAL VISTA",
       "type": "single",
       "file": "IMG_4296.jpg"
     },
     {
-      "title": "MEN OF CONSEQUENCE",
+      "title": "TRIPTYCH",
       "type": "gallery",
       "files": [
         {
@@ -25,12 +25,12 @@
       ]
     },
     {
-      "title": "BEN AFFLECK WITH COCAO PRODUCERS IN DRC",
+      "title": "GOLDEN FIELD",
       "type": "single",
       "file": "IMG_2342_2.jpg"
     },
     {
-      "title": "EZRA MILLER AT THE CRAZY HORSE MEMORIAL",
+      "title": "EZRA — CRAZY HORSE",
       "type": "single",
       "file": "Ezra_CrazyHorse_IMG_8585.jpg"
     },
