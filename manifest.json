@@ -87,9 +87,30 @@
       "file": "IMG_3558.jpg"
     },
     {
-      "title": "RUTH",
-      "type": "single",
-      "file": "RUTH_4551.jpg"
+      "title": "RUTH WILSON",
+      "type": "gallery",
+      "files": [
+        {
+          "file": "RUTH_4551.jpg",
+          "caption": "RUTH WILSON"
+        },
+        {
+          "file": "RuthWilsonTheTimes-2.jpg",
+          "caption": "RuthWilsonTheTimes-2"
+        },
+        {
+          "file": "Ruth_5379.jpg",
+          "caption": "Ruth_5379"
+        },
+        {
+          "file": "Ruth_IMG_5159.jpg",
+          "caption": "Ruth_IMG_5159"
+        },
+        {
+          "file": "Ruth_IMG_4995.jpg",
+          "caption": "Ruth_IMG_4995"
+        }
+      ]
     },
     {
       "title": "PORTRAITS",
