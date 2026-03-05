@@ -317,8 +317,13 @@
     },
     {
       "title": "ERYN",
-      "type": "single",
-      "file": "Eryn_IMG_3857.jpg"
+      "type": "gallery",
+      "files": [
+        {
+          "file": "Eryn_IMG_3857.jpg",
+          "caption": "ERYN"
+        }
+      ]
     },
     {
       "title": "DADAAB",
