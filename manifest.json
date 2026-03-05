@@ -246,32 +246,37 @@
       "file": "HorseBridge.jpg"
     },
     {
-      "title": "STRENGTH",
+      "title": "STRONG",
       "type": "gallery",
       "files": [
         {
-          "file": "IMG_7488.jpg",
-          "caption": "PERFORMANCE 01"
-        },
-        {
           "file": "AlexDuncan_MG_9333.jpg",
           "caption": "ALEX DUNCAN"
-        },
-        {
-          "file": "IMG_1626.jpg",
-          "caption": "PERFORMANCE 02"
         },
         {
           "file": "IMG_5159.jpg",
           "caption": "PERFORMANCE 03"
         },
         {
+          "file": "0P2A3050.jpg",
+          "caption": "PERFORMANCE 04"
+        },
+        {
           "file": "DSC03354.jpg",
           "caption": "BACKSTAGE"
         },
         {
-          "file": "0P2A3050.jpg",
-          "caption": "PERFORMANCE 04"
+          "file": "IMG_7488.jpg",
+          "caption": "PERFORMANCE 01"
+        },
+        {
+          "file": "Eryn_IMG_3857.jpg",
+          "caption": "Eryn_IMG_3857"
+        },
+        {
+          "file": "IMG_1626.jpg",
+          "caption": "PERFORMANCE 02",
+          "wide": true
         }
       ]
     },
