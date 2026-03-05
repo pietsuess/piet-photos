@@ -114,18 +114,6 @@
       "type": "gallery",
       "files": [
         {
-          "file": "IMG_0081.jpg",
-          "caption": "PORTRAIT 01"
-        },
-        {
-          "file": "IMG_0167.jpg",
-          "caption": "PORTRAIT 02"
-        },
-        {
-          "file": "Natalie_Red_Gown.jpg",
-          "caption": "NATALIE"
-        },
-        {
           "file": "DSC05244-2.jpg",
           "caption": "RAVECOACH 01"
         },
@@ -138,6 +126,14 @@
           "caption": "RAVECOACH 03"
         },
         {
+          "file": "DSC08322.jpg",
+          "caption": "SESSION 01"
+        },
+        {
+          "file": "DSC08657.jpg",
+          "caption": "SESSION 02"
+        },
+        {
           "file": "Adina_DSC03757-3.jpg",
           "caption": "ADINA 01"
         },
@@ -148,14 +144,6 @@
         {
           "file": "Adina_DSC03798-2.jpg",
           "caption": "ADINA 03"
-        },
-        {
-          "file": "DSC08322.jpg",
-          "caption": "SESSION 01"
-        },
-        {
-          "file": "DSC08657.jpg",
-          "caption": "SESSION 02"
         },
         {
           "file": "DSC08670.jpg",
@@ -174,18 +162,6 @@
           "caption": "SESSION 06"
         },
         {
-          "file": "Adina_DSC03637.jpg",
-          "caption": "ADINA 04"
-        },
-        {
-          "file": "Adina_DSC03615.jpg",
-          "caption": "ADINA 05"
-        },
-        {
-          "file": "Adina_DSC03597-2.jpg",
-          "caption": "ADINA 06"
-        },
-        {
           "file": "Rieter_DSC06406.jpg",
           "caption": "RIETER 01"
         },
@@ -196,6 +172,36 @@
         {
           "file": "Rieter_DSC06533.jpg",
           "caption": "RIETER 03"
+        }
+      ]
+    },
+    {
+      "title": "WOMEN IN RED",
+      "type": "gallery",
+      "files": [
+        {
+          "file": "IMG_0081.jpg",
+          "caption": "PORTRAIT 01"
+        },
+        {
+          "file": "IMG_0167.jpg",
+          "caption": "PORTRAIT 02"
+        },
+        {
+          "file": "Natalie_Red_Gown.jpg",
+          "caption": "NATALIE"
+        },
+        {
+          "file": "Adina_DSC03637.jpg",
+          "caption": "ADINA 04"
+        },
+        {
+          "file": "Adina_DSC03615.jpg",
+          "caption": "ADINA 05"
+        },
+        {
+          "file": "Adina_DSC03597-2.jpg",
+          "caption": "ADINA 06"
         }
       ]
     },
