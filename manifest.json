@@ -328,7 +328,8 @@
         },
         {
           "file": "AlphaYayaDialo_DSC03958-2.jpg",
-          "caption": "AlphaYayaDialo DSC03958-2"
+          "caption": "AlphaYayaDialo DSC03958-2",
+          "wide": true
         }
       ]
     },
@@ -353,6 +354,11 @@
           "caption": "HORSE BRIDGE"
         }
       ]
+    },
+    {
+      "title": "WEDDING BLISS",
+      "type": "single",
+      "file": "BennyJools_Wedding_DSC03346.jpg"
     }
   ],
   "_hidden": [
