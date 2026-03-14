@@ -84,8 +84,8 @@
     },
     {
       "title": "ERICA DEE ALBUM ART",
-      "type": "single",
-      "file": "IMG_3558.jpg"
+      "type": "gallery",
+      "files": []
     },
     {
       "title": "RUTH WILSON BUM BUM",
@@ -242,11 +242,6 @@
       ]
     },
     {
-      "title": "HORSE BRIDGE",
-      "type": "single",
-      "file": "HorseBridge.jpg"
-    },
-    {
       "title": "STRONG",
       "type": "gallery",
       "files": [
@@ -259,8 +254,8 @@
           "caption": "PERFORMANCE 03"
         },
         {
-          "file": "0P2A3050.jpg",
-          "caption": "PERFORMANCE 04"
+          "file": "IMG_3558.jpg",
+          "caption": "ERICA DEE ALBUM ART"
         },
         {
           "file": "DSC03354.jpg",
@@ -290,16 +285,8 @@
           "caption": "FLAGGED"
         },
         {
-          "file": "EastVan_IMG_5311.jpg",
-          "caption": "EAST VAN 01"
-        },
-        {
           "file": "Hurst_IMG_6313.jpg",
           "caption": "HURST"
-        },
-        {
-          "file": "Kids_IMG_6424.jpg",
-          "caption": "KIDS"
         },
         {
           "file": "ShippingReceiving_IMG_6331.jpg",
@@ -308,23 +295,35 @@
         {
           "file": "Splat_IMG_6376.jpg",
           "caption": "SPLAT"
+        },
+        {
+          "file": "EastVan_IMG_5311.jpg",
+          "caption": "EAST VAN 01",
+          "wide": true
         }
       ]
     },
     {
-      "title": "DOWNTOWN LA",
-      "type": "single",
-      "file": "DTLA_IMG_0648.jpg"
-    },
-    {
-      "title": "NEPAL GRASS",
-      "type": "single",
-      "file": "IMG_0107.jpg"
-    },
-    {
-      "title": "DADAAB",
-      "type": "single",
-      "file": "Dadaab_IMG_1047.jpg"
+      "title": "World",
+      "type": "gallery",
+      "files": [
+        {
+          "file": "DTLA_IMG_0648.jpg",
+          "caption": "DOWNTOWN LA"
+        },
+        {
+          "file": "IMG_0107.jpg",
+          "caption": "NEPAL GRASS"
+        },
+        {
+          "file": "Dadaab_IMG_1047.jpg",
+          "caption": "DADAAB"
+        },
+        {
+          "file": "HorseBridge.jpg",
+          "caption": "HORSE BRIDGE"
+        }
+      ]
     }
   ],
   "_hidden": [
