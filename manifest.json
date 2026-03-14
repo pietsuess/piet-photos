@@ -16,7 +16,8 @@
         },
         {
           "file": "IMG_7151.jpg",
-          "caption": "LANDSCAPE"
+          "caption": "LANDSCAPE",
+          "portrait": true
         },
         {
           "file": "k03.jpg",
